@@ -40,7 +40,7 @@ Doreto Web/
 
 ## 🚀 Como Visualizar
 
-Basta https://izadorettos.github.io/DoretoWeb-AI/ em qualquer navegador moderno. Todas as dependências externas são carregadas via CDN, garantindo que o site funcione imediatamente sem necessidade de configurações adicionais.
+Basta acessar https://izadorettos.github.io/DoretoWeb-AI/ em qualquer navegador moderno. Todas as dependências externas são carregadas via CDN, garantindo que o site funcione imediatamente sem necessidade de configurações adicionais.
 
 ---
 Desenvolvido por **Doreto Web & AI** - Elevando seu negócio ao próximo nível.
